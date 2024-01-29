@@ -1,1 +1,50 @@
 
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 40px;
+  }
+  
+  div {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .st {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .sm {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .sm:hover {
+    background-color: #3e8e41;
+  }
+  
+  #p1 {
+    margin-top: 10px;
+  }
+  
